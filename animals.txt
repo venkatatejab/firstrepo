@@ -1,5 +1,9 @@
-M Muskrat
+M Mole (change on line 1)
 N Newt
+HEAD
 O Onager (change on line 3)
+
+O Ocelot (change on line 3)
+alternative
 P Panda
 T Tapir (change on line 5)
